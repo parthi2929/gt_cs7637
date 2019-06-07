@@ -1,0 +1,9 @@
+# ipython
+.ipynb_checkpoints
+tmp
+
+# mkdocs build files
+**/site/*
+
+# windows specific files
+desktop.ini

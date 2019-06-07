@@ -1,0 +1,14 @@
+site_name: Parthiban Rajendran
+docs_dir: mkdocs/docs/
+plugins:
+    - search
+theme: 
+  name: 'readthedocs'
+  custom_dir: 'mkdocs/custom_theme/'
+  prev_next_buttons_location: bottom
+extra_css:
+  - css/extra.css
+  - css/nbheader_styles_MOD.css
+  - css/pdfextra.css
+
+        
