@@ -10,5 +10,18 @@ extra_css:
   - css/extra.css
   - css/nbheader_styles_MOD.css
   - css/pdfextra.css
-
-        
+  - css/pdfextra.css
+nav:
+    - Home: index.md
+    - Notes: 
+        - '01. Intro to KBAI' : 'Notes/01. Intro to KBAI.md'
+        - '02. Principles of KBAI': 'Notes/02. Principles of KBAI.md'
+        - '03. Semantic Networks' : 'Notes/03. Semantic Networks.md'
+        - '04. Generate & Test' : 'Notes/04. Generate & Test.md'
+        - '05. Means-Ends Analysis' : 'Notes/05. Means-Ends Analysis.md'
+        - '06. Production Systems' : 'Notes/06. Production Systems.md'
+        - '07. Frames' : 'Notes/07. Frames.md'
+        - '08. Learning by Recording Cases': 'Notes/08. Learning by Recording Cases.md'
+        - '09. Case based Reasoning' : 'Notes/09. Case based Reasoning.md'
+    - Misc:
+        - '01. Assignment Tips' : 'Misc/99. Assignment Tips.md'
