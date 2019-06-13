@@ -1,7 +1,7 @@
 # KBAI
 <br> 
 
-These documents are my notes and other useful items from the CS7637 KBAI lecture videos. 
+This website contains slide notes from CS7637 KBAI, along with some of my short notes and other consolidations I found useful while doing the course. 
 
 <br> 
 

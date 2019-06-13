@@ -13,6 +13,16 @@ extra_css:
   - css/pdfextra.css
 nav:
     - Home: index.md
+    - Slides:
+        - '01-Introduction-to-KBAI' : 'Slides/01-Introduction-to-KBAI.md'
+        - '02-Introduction-to-CS7637' : 'Slides/02-Introduction-to-CS7637.md'
+        - '03-Semantic-Networks' : 'Slides/03-Semantic-Networks.md'
+        - '04-Generate-and-Test' : 'Slides/04-Generate-and-Test.md'
+        - '05-Means-End-Analysis' : 'Slides/05-Means-End-Analysis.md'
+        - '06-ProductionSystems' : 'Slides/06-ProductionSystems.md'
+        - '07-Frames' : 'Slides/07-Frames.md'
+        - '08-Learning-By-Recording-Cases' : 'Slides/08-Learning-By-Recording-Cases.md'
+        - '09-Case-Based-Reasoning' : 'Slides/09-Case-Based-Reasoning.md'
     - Notes: 
         - '01. Intro to KBAI' : 'Notes/01. Intro to KBAI.md'
         - '02. Principles of KBAI': 'Notes/02. Principles of KBAI.md'
@@ -25,3 +35,4 @@ nav:
         - '09. Case based Reasoning' : 'Notes/09. Case based Reasoning.md'
     - Misc:
         - '01. Assignment Tips' : 'Misc/99. Assignment Tips.md'
+        - '02. Assignment Rubric' : 'Misc/99. Assignment Rubric.md'
