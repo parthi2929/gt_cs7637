@@ -3,7 +3,7 @@
      responsive-wrapper-wxh-572x612"
      style="-webkit-overflow-scrolling: touch; overflow: auto;">
 
-<iframe src="/Slides/05-Means-End-Analysis.html"> 
+<iframe src="/Slides/05 - Means-End Analysis.pdf"> 
 
 </iframe>
     
