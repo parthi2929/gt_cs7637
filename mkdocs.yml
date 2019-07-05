@@ -27,6 +27,11 @@ nav:
         - '12. Logic' : 'Notes/12. Logic.md'
         - '13. Planning' : 'Notes/13. Planning.md'
         - '14. Understanding' : 'Notes/14. Understanding.md'        
+        - '15. Common Sense Reasoning' : 'Notes/15. Common Sense Reasoning.md'
+        - '16. Scripts' : 'Notes/16. Scripts.md'
+        - '17. Explanation based Learning' : 'Notes/17. Explanation based Learning.md'
+        - '18. Analogical Reasoning' : 'Notes/18. Analogical Reasoning.md'
+        - '19. Version Spaces' : 'Notes/19. Version Spaces.md'
     - Ebooks:
         - 'Lectures (ext link)' : 'Ebook/kbai_ebook-compressed.pdf'
     - Misc:
