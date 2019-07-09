@@ -32,6 +32,9 @@ nav:
         - '17. Explanation based Learning' : 'Notes/17. Explanation based Learning.md'
         - '18. Analogical Reasoning' : 'Notes/18. Analogical Reasoning.md'
         - '19. Version Spaces' : 'Notes/19. Version Spaces.md'
+        - '20. Constraint Propogation' : 'Notes/20. Constraint Propogation.md'
+        - '21. Configuration' : 'Notes/21. Configuration.md'
+        - '22. Diagnosis' : 'Notes/22. Diagnosis.md'
     - Ebooks:
         - 'Lectures (ext link)' : 'Ebook/kbai_ebook-compressed.pdf'
     - Misc:
