@@ -7,3 +7,6 @@ tmp
 
 # windows specific files
 desktop.ini
+
+# slide ppts
+Slides/*
