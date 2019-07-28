@@ -35,6 +35,9 @@ nav:
         - '20. Constraint Propogation' : 'Notes/20. Constraint Propogation.md'
         - '21. Configuration' : 'Notes/21. Configuration.md'
         - '22. Diagnosis' : 'Notes/22. Diagnosis.md'
+        - '23. Learning by Correcting Mistakes' : 'Notes/23. Learning by Correcting Mistakes.md'
+        - '24. Meta-Reasoning.md' : 'Notes/24. Meta-Reasoning.md'
+        - '25. Advanced Topics.md' : 'Notes/25. Advanced Topics.md'
     - Ebooks:
         - 'Lectures (ext link)' : 'Ebook/kbai_ebook-compressed.pdf'
     - Misc:
